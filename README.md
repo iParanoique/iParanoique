@@ -1,10 +1,4 @@
-Welcome to my profile 💻
-
-22 year old Information Technology student 🎓
-Django Developer 🌐
-Loves to Code 👨‍💻
-Hobbies: 🚴‍♂️ and ⚽
-Want to connect with me ? Just drop a Hi 👋 <a href="https://developer.mozilla.org">here</a>!
+Welcome to my profile, I'm <a href="https://github.com/iParanoique">Evgeniy</a>https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif
 
 <hr>
 
