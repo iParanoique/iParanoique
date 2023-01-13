@@ -1,4 +1,4 @@
-Welcome to my profile, I'm <a href="https://github.com/iParanoique">Evgeniy</a>https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif
+Welcome to my profile, I'm <a href="https://github.com/iParanoique">Evgeniy</a><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">
 
 <hr>
 
