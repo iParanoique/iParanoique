@@ -1,4 +1,4 @@
-Welcome to my profile, I'm <a href="https://github.com/iParanoique">Evgeniy</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+Welcome to my profile, I'm <a href="https://github.com/iParanoique">Evgeniy</a>
 
 <hr>
 
