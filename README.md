@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/iParanoique">Evgeniy Popov!</a></h1>
 <img src="https://komarev.com/ghpvc/?username=iparanoique&color=blue">
 <ul>
-<li>🌱 I’m currently learning Machine Learning & Data Science</li>
+<li>🌱 I’m currently learning <b>Web development & Process Automation</b></li>
 <li>📫 How to reach me <a href="t.me/jenijaa">Telegram</a></li>
 </ul>
 
