@@ -1,5 +1,5 @@
 Welcome to my profile, I'm [Evgeniy](https://github.com/iParanoique)!
-![profile_views](https://komarev.com/ghpvc/?username=diyajaiswal11=brightgreen)
+📫 How to reach me [Telegram](t.me/jenijaa)
 <hr>
 
 Mostly Work With ⚒
