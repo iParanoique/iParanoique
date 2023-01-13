@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/iParanoique">Evgeniy Popov!</a></h1>
-<img src="https://komarev.com/ghpvc/?username=iparanoique&color=brightgreen">
-📫 How to reach me [Telegram](t.me/jenijaa)
+<img src="https://komarev.com/ghpvc/?username=iparanoique&color=blue">
+<ul>
+<li>🌱 I’m currently learning Machine Learning & Data Science</li>
+<li>📫 How to reach me <a href="t.me/jenijaa">Telegram</a></li>
+</ul>
 
 
-Mostly Work With ⚒
+💻 Mostly Work With
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/>
 <br>
