@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/iParanoique">Evgeniy Popov!</a></h1>
 <br>
-![](https://komarev.com/ghpvc/?username=iparanoique&color=green)<br>
+![Profile views](https://komarev.com/ghpvc/?username=iparanoique&color=green)<br>
 📫 How to reach me [Telegram](t.me/jenijaa)
 <hr>
 
