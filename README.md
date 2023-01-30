@@ -2,7 +2,6 @@
 <img src="https://komarev.com/ghpvc/?username=iparanoique&color=blue">
 <ul>
 <li>🌱 I’m currently learning <b>Web Development & Process Automation</b></li>
-<li>📫 How to reach me <a href="t.me/jenijaa">Telegram</a></li>
 <li>⚡ Looking forward for interesting collaborations and projects.</li>
 </ul>
 
